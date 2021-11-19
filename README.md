@@ -2,11 +2,15 @@
 
 ## Sobre o projeto
 
-Mostrando meu desenvolvimento nos estudos em JavaScript com o curso "Curso de JavaScript e TypeScript do básico ao avançado 2021", professor: Luiz Otávio.
+ - Mostrando meu desenvolvimento nos estudos em JavaScript com o curso "Curso de JavaScript e TypeScript do básico ao avançado 2021", professor: Luiz Otávio.
 
 ## Modulo 
 
-Seção 3 javascript - lógica de programação - Aula 44
+- Seção 3 javascript - lógica de programação - Aula 44
+
+## Implantação em produção
+
+- Front end web: Netlify
 
 # Tecnologias utilizadas
 
