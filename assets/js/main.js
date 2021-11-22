@@ -2,7 +2,8 @@
 const form = document.querySelector("#formulario");
 
 form.addEventListener("submit", function (e) {
-  e.preventDefault();
+  e.preventDefault(); // --> desativado o submit do butão
+
   const inputPeso = e.target.querySelector("#peso");
   const inputAltura = e.target.querySelector("#altura");
 
